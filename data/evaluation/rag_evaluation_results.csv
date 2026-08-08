@@ -1,0 +1,65 @@
+case_id,company,answerable,has_citations,citations_valid,abstained,answer,status,abstention_correct,answerability_behavior_correct,citation_requirement_passed,overall_pass
+F_Q1,Ford,True,True,True,False,"Based on the provided SEC filing passages, Ford Credit’s access to funding and ability to maintain liquidity could be weakened by the following potential disruptions and risk factors:
+
+### Disclosed Disruption Risks to Funding Access
+* **Market & Capital Volatility / Disruptions:** Prolonged disruption of the debt and securitization markets, global capital market volatility, or general market disruption [Source 1, Source 3].
+* **Credit Rating Downgrades:** Lower credit ratings assigned to Ford or Ford Credit, or an inability to obtain appropriate credit ratings for securitization transactions [Source 1, Source 2, Source 3].
+* **Decreased Market Demand & Capacity:** A significant decline in demand for the types of securities Ford Credit offers, or reduced market capacity for Ford- and Ford Credit-sponsored investments [Source 1, Source 2].
+* **Asset & Pool Eligibility Issues:** A lack of sufficient eligible assets, or poor performance of underlying assets within Ford Credit's asset-backed financing structures [Source 1, Source 3].
+* **Facility & Hedging Limitations:** Inability to maintain credit facilities/committed asset-backed facilities, or inability to obtain hedging instruments/derivatives needed to manage interest rate risk [Source 1, Source 2, Source 3].
+* **Regulatory & Accounting Changes:** Regulatory requirements or accounting changes affecting financial markets and securitization funding [Source 1, Source 3].
+
+*(Note: The provided filings frame these factors as prospective risks and potential conditions that could constrain funding rather than events that have already occurred [Source 1, Source 2, Source 3]).*
+
+---
+
+### Evidence Limitations
+The provided passages do not contain quantitative financial data, current credit ratings, historical default figures, or specific past operational instances where access to funding was curtailed.",Completed,,True,True,True
+GM_Q1,General Motors,True,True,True,False,"Based on the provided SEC filings, the factors that could increase financing costs, reduce the ability to provide financing at competitive rates, or impair access to funding include:
+
+### Disclosed Risk Factors Impacting Capital Access and Financing Costs
+* **Funding Source Availability and Costs:** GM Financial’s access to capital and ability to offer competitive financing rates depend on the sufficiency, availability, and cost of its funding sources, specifically including credit facilities, securitization programs, and secured and unsecured debt issuances [Source 1].
+* **Loan Performance:** The underlying performance of loans directly affects GM Financial’s business, operations, and financing capacity [Source 1].
+* **Macro Environment & Business Risks:** Broader business, economic, and financial risks faced by GM Financial could impair its overall access to capital [Source 1].
+* **Investment Portfolio Liquidity Constraints:** For defined benefit pension plan investments, insufficient market liquidity in specific asset classes and the inability to quickly rebalance illiquid, long-term investments create additional funding risks [Source 4].
+
+*(Note: The provided sources present these items as potential risks that could adversely affect future operations rather than events that have already occurred [Source 1, Source 4]).*
+
+***
+
+**Evidence limitations:** 
+The provided text is limited to excerpts from GM's 2025 Form 10-K focusing on GM Financial risk factors, pension plan risks, and regulatory risks. It does not contain quantitative data, credit ratings, interest rate metrics, or comprehensive details on general corporate debt obligations outside the cited risk disclosures.",Completed,,True,True,True
+TSLA_Q1,Tesla,True,True,True,False,"Based on the provided SEC filing excerpts, Tesla faces several operational and supply-chain risks that could disrupt production:
+
+### Disclosed Operational Risks
+* **Manufacturing and Expansion Execution:** Failure to accurately match component purchases with needs, or failure to successfully implement automation, inventory management, and parts-handling systems, could result in unexpected production disruptions, storage, transportation, and write-off costs [Source 1]. Tesla also risks being unable to meet projected construction timelines, costs, or production ramps at new factories [Source 1].
+* **Battery and Component Manufacturing:** Inability to maintain and grow Gigafactory operations cost-effectively, or failure to hire and retain highly skilled personnel, limits the ability to manufacture vehicles and energy storage products profitably [Source 4, Source 5].
+* **Hazardous Material Mishandling & Safety Hazards:** High volumes of lithium-ion cells, battery modules, and packs stored and recycled at facilities carry risks of mishandling, safety issues, or fires, which could disrupt facility operations [Source 5].
+
+### Disclosed Supply-Chain Risks
+* **Supplier Concentration and Disruptions:** Reliance on single-source direct suppliers and hundreds of global suppliers exposes Tesla to component shortages [Source 3]. Supplier performance can be disrupted by raw material price inflation, labor issues, trade policy changes, natural disasters, health epidemics, shipping disruptions, port congestion, cyberattacks, supplier insolvency, or suppliers allocating insufficient production to Tesla [Source 3].
+* **Scale and Logistics Complexity:** As production scale and variants increase, failure to accurately forecast, purchase, warehouse, and transport high volumes of components internationally risks supply-chain bottlenecks [Source 1].
+
+### Realized vs. Disclosed Environmental & Trade Events
+* **Trade Policy Impacts (Realized Event):** U.S. trade policy alterations in 2025, including heightened import tariffs and retaliatory measures, **have already impacted** supply chain costs and could further limit the future availability of components and technologies depending on final tariff scopes and retaliatory export controls [Source 3].
+* **Past Weather Disruption (Realized Event):** Severe winter storms in Q1 2021 impacted utilities and transportation at Gigafactory Texas [Source 2].
+* **Facility Geographic Exposure (Disclosed Risk):** Earthquakes, floods, or major disasters near key facilities—such as Fremont/Nevada (seismic zones) or Shanghai (flood-prone area)—or geopolitical conflicts could damage facilities or force Tesla to stop/delay production and shipments [Source 2].
+
+***
+
+### Evidence Limitations
+The provided passages do not contain quantitative metrics regarding financial losses, inventory write-offs, or exact production volumes affected by supply-chain disruptions. Additionally, specific details regarding current raw material price levels or specific critical component backlogs are not disclosed in these excerpts.",Completed,,True,True,True
+F_Q2,Ford,False,False,False,True,"Based on the provided SEC filing passages, there is no information regarding the exact credit rating Ford will receive next year. The supplied evidence is insufficient to answer this question.
+
+***
+
+**Evidence limitations:** 
+The provided passages only contain historical financial data, liquidity metrics, credit facility descriptions, and Ford Credit's internal dealer risk-rating categories; they do not disclose prospective credit ratings assigned by external credit rating agencies.",Completed,False,True,True,True
+GM_Q2,General Motors,False,True,True,True,"Based on the provided SEC filing passages, there is no evidence that General Motors will default on its debt, nor is an exact default date stated. As of December 31, 2025, General Motors was in compliance with all debt covenants and stated that it expects to remain in compliance in the future [Source 2]. 
+
+Disclosed risks note that failure to meet covenant requirements, such as reporting standards, financial ratios, or lien limits, could potentially lead to a covenant violation or event of default depending on agreement terms [Source 3], but no actual event of default has occurred [Source 2]. Consequently, the provided evidence is insufficient to determine any date of default.
+
+**Evidence limitations:** The provided passages cover debt profiles, liquidity, covenant compliance, and debt issuance details for General Motors and GM Financial for the fiscal year ended December 31, 2025. They do not contain predictions, notices, or schedules regarding future defaults or insolvency events.",Completed,False,True,True,True
+TSLA_Q2,Tesla,False,True,True,True,"Based on the provided SEC filing passages, there is no information available to determine or predict Tesla's future share price [Source 1, Source 2, Source 3, Source 4, Source 5]. 
+
+**Evidence limitations:** The supplied SEC filing excerpts do not contain forward-looking stock price targets, valuation forecasts, or evidence sufficient to estimate future share prices.",Completed,False,True,True,True
